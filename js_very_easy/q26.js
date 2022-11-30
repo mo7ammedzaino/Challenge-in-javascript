@@ -25,10 +25,4 @@ checkEquality(1,  1) ➞ true
 
 */
 //The solution
-function checkEquality(a, b) {
-  if (typeof a === typeof b && a === b) {
-    return true;
-  } else {
-    return false;
-  }
-}
+const checkEquality = (a, b) => a === b;
