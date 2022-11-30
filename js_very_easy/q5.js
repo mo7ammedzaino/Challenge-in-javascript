@@ -1,4 +1,4 @@
-//Question_2
+//Question_5
 /*
 Power Calculator
 Create a function that takes voltage and current and returns the calculated power.
